@@ -1,7 +1,6 @@
 {
   "name": "hand",
   "version": "0.1.0",
-  "homepage": "https://monroe-ma.github.io/handAccount-webSite/",
   "private": true,
   "dependencies": {
     "@babel/core": "7.9.0",
