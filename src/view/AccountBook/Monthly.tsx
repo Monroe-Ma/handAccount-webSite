@@ -7,7 +7,7 @@ import day from 'dayjs'
 import Category from './Category'
 import px2vw from '../../lib/px2vw'
 const Preparation = styled.div`
-  margin: 17px 10px;
+  margin: 18px 10px;
   display: flex;
   justify-content: center;
 `
