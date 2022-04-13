@@ -2,6 +2,7 @@
   "name": "hand",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://monroe-ma.github.io/handAccount-webSite/",
   "dependencies": {
     "@babel/core": "7.9.0",
     "@pile-ui/theme-default": "^2.0.6-alpha.0",
