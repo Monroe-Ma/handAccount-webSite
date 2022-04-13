@@ -103,7 +103,7 @@ const Monthly = () => {
       width: 84px;
       height: 84px;
       fill: #999;
-      margin-bottom: 10px;
+      margin-bottom: 12px;
     }
   `
 
